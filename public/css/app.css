@@ -1,0 +1,94 @@
+/********************************Body Styling */
+body {
+  font-family: 'Lora', serif;
+}
+
+p {
+  font-size: 20px;
+}
+
+/**********************Welcome Page Styling*/
+.projectbazaar {
+  padding-bottom: 40px;
+  color: black;
+  font-size: 48px;
+}
+
+.intro {
+  color: white;
+  font-size: 24px;
+  padding-bottom: 50px;
+}
+
+.panelheight {
+  min-height: 250px;
+}
+
+/*************************Project Posts Styling */
+
+
+
+/*************************Footer Styling */
+
+.footer p {
+  padding-left: 20px;
+}
+
+.pfooter {
+  font-size: 12px;
+}
+
+
+/********************Comment on posts styling*/
+
+
+#comments-form {
+  margin-top: 50px;
+}
+
+.comment {
+  margin-bottom: 45px;
+}
+
+.comment-content {
+  font-size: 18px;
+}
+
+.author-date {
+  font-size: 12px;
+  font-style: italic;
+  color: blue;
+}
+
+
+/**********************Button Tweaks*/
+
+.button-padding {
+  margin-top: 10px;
+}
+
+/*******************Navigation Customer*/
+
+.nav-custom {
+  background-color:
+}
+
+
+/***************************Colours*/
+
+
+.green {
+  background-color: #4abdac;
+}
+
+.orange {
+  background-color: #fc4a1a;
+}
+
+.yellow {
+  background-color: #f7b733;
+}
+
+.grey {
+  background-color: #dfdce3;
+}
